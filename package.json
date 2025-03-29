@@ -1,9 +1,9 @@
 {
-  "name": "movie-poster-explorer",
+  "name": "book-cover-explorer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shepe1304.github.io/BookCoverExplorer/",
+  "homepage": "https://shepe1304.github.io/book-cover-explorer/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
