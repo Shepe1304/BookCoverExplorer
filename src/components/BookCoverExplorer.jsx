@@ -126,7 +126,7 @@ function BookCoverExplorer() {
       let validBook = false;
       let bookData = null;
       let attempts = 0;
-      const maxAttempts = 1;
+      const maxAttempts = 5;
 
       while (!validBook && attempts < maxAttempts) {
         attempts++;
